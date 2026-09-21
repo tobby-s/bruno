@@ -1,0 +1,23 @@
+packages/bruno-common/src/generate-code/har/index.spec.ts
+  s_4fa385f9d8066a::t_a4883d80dfc7fd 548,550-551,560-561
+packages/bruno-common/src/generate-code/har/index.ts
+  s_4fa385f9d8066a::t_5a8628b29f9659 528-530
+  s_4fa385f9d8066a::t_9f89831c206b81 527,531
+  s_4fa385f9d8066a::t_d05c0f8817921e 591
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "a807df67dc378bc5ab9c38fef7c4222d31006b97",
+  "prompts": {},
+  "sessions": {
+    "s_4fa385f9d8066a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f07ea17c-b0d9-4345-8299-842a77be31e1",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Tobby Satyarama <tobby.satyarama@foodpanda.com>"
+    }
+  }
+}
